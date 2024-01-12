@@ -21,9 +21,5 @@ public class OperatorAdd1 {
 
         ++a;
         System.out.println("a = " + a);
-
-
-
-
     }
 }
