@@ -5,24 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de247075-ee19-4b1d-bc38-73243c666843" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cond/CondOp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/CondOp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/CondOpEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/DistanceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/EvenOddEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/ExchangeRateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/GradeSwitchEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/MoveRateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/ScoreEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Continue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/For1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/For2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Nested1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/OperatorAdd1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operator/OperatorAdd1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/OperatorAdd2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operator/OperatorAdd2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,16 +70,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="loop" />
       <recent name="cond" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CondOp2">
-    <configuration name="CondOp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.CondOp1" />
+  <component name="RunManager" selected="Application.Nested1">
+    <configuration name="Break2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Break2" />
       <module name="java_start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CondOp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.CondOp2" />
+    <configuration name="Break3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Break3" />
       <module name="java_start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.Switch2" />
+    <configuration name="For1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.For1" />
       <module name="java_start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.Switch3" />
+    <configuration name="For2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.For2" />
       <module name="java_start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.Switch4" />
+    <configuration name="Nested1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Nested1" />
       <module name="java_start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CondOp2" />
-        <item itemvalue="Application.CondOp1" />
-        <item itemvalue="Application.Switch4" />
-        <item itemvalue="Application.Switch3" />
-        <item itemvalue="Application.Switch2" />
+        <item itemvalue="Application.Nested1" />
+        <item itemvalue="Application.Break3" />
+        <item itemvalue="Application.Break2" />
+        <item itemvalue="Application.For2" />
+        <item itemvalue="Application.For1" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +162,8 @@
       <workItem from="1704797527060" duration="5885000" />
       <workItem from="1704969023610" duration="7052000" />
       <workItem from="1705048412076" duration="9000" />
-      <workItem from="1705053293590" duration="6386000" />
+      <workItem from="1705053293590" duration="6390000" />
+      <workItem from="1705124122467" duration="8613000" />
     </task>
     <servers />
   </component>
