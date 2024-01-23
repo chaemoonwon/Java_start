@@ -11,8 +11,8 @@ public class ArrayEx6 {
         System.out.println(count + "개의 정수를 입력하세요:");
         int[] number = new int[count];
 
-        int min;
-        int max;
+        int min;       //최소값
+        int max;       //최대값
         for (int i = 0; i < number.length; i++) {
             number[i] = sc.nextInt();
         }
@@ -25,11 +25,7 @@ public class ArrayEx6 {
                 min = number[i];
             }
         }
-
-
         System.out.println("가장 작은 정수: " +min);
         System.out.print("가장 큰 정수: " + max);
-
     }
-
 }

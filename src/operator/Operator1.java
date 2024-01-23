@@ -21,7 +21,7 @@ public class Operator1 {
         System.out.println("multi = " + multi); // a * b
 
         //나눗셈(몫)
-        int div = a / b;    // 2.5
+        double div = (double) a / b;    // 2.5
         System.out.println("div = " + div); // a / b
 
         //나머지
