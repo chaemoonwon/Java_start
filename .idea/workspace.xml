@@ -5,20 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de247075-ee19-4b1d-bc38-73243c666843" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ProductAdminEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Method1Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Overloading1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Overloading2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Overloading3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/ex/ArrayEx6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/ex/ArrayEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/Operator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operator/Operator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/ex/OperationEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +67,13 @@
       <recent name="cond" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodValue1">
-    <configuration name="Method1Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.Method1Ref" />
+  <component name="RunManager" selected="Application.MethodEx4">
+    <configuration name="MethodEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx1" />
       <module name="java_start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.*" />
+          <option name="PATTERN" value="method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReturn1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.MethodReturn1" />
+    <configuration name="MethodEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx2" />
       <module name="java_start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.*" />
+          <option name="PATTERN" value="method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReturn2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.MethodReturn2" />
+    <configuration name="MethodEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx3" />
       <module name="java_start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.*" />
+          <option name="PATTERN" value="method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodValue0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.MethodValue0" />
+    <configuration name="MethodEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx4" />
       <module name="java_start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.*" />
+          <option name="PATTERN" value="method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodValue1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.MethodValue1" />
+    <configuration name="Overloading3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.Overloading3" />
       <module name="java_start" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodValue1" />
-        <item itemvalue="Application.MethodValue0" />
-        <item itemvalue="Application.Method1Ref" />
-        <item itemvalue="Application.MethodReturn2" />
-        <item itemvalue="Application.MethodReturn1" />
+        <item itemvalue="Application.MethodEx4" />
+        <item itemvalue="Application.MethodEx3" />
+        <item itemvalue="Application.MethodEx2" />
+        <item itemvalue="Application.MethodEx1" />
+        <item itemvalue="Application.Overloading3" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +159,7 @@
       <workItem from="1705124122467" duration="9171000" />
       <workItem from="1705315222996" duration="6961000" />
       <workItem from="1705401070509" duration="6356000" />
-      <workItem from="1705477517747" duration="39773000" />
+      <workItem from="1705477517747" duration="50414000" />
     </task>
     <servers />
   </component>
