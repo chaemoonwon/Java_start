@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de247075-ee19-4b1d-bc38-73243c666843" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Overloading1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Overloading2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Overloading3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="de247075-ee19-4b1d-bc38-73243c666843" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +146,7 @@
       <workItem from="1705124122467" duration="9171000" />
       <workItem from="1705315222996" duration="6961000" />
       <workItem from="1705401070509" duration="6356000" />
-      <workItem from="1705477517747" duration="50414000" />
+      <workItem from="1705477517747" duration="50752000" />
     </task>
     <servers />
   </component>
